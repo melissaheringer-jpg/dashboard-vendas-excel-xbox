@@ -1,37 +1,37 @@
 📊 Dashboard de Vendas no Excel
-📌 Entendendo o Desafio
+📌 Objetivo do Projeto
 
-O objetivo deste projeto é a criação de um dashboard de vendas, com foco na organização, análise e visualização de dados.
+Este projeto tem como objetivo a criação de um dashboard de vendas, com foco na organização, análise e visualização de dados.
 A proposta é transformar dados brutos em informações visuais claras e objetivas, facilitando a análise do desempenho de vendas e apoiando a tomada de decisões baseada em dados.
 
-🛠️ O que foi desenvolvido
+🛠️ Desenvolvimento
 
-Criação de um dashboard de vendas no Excel
+O dashboard foi desenvolvido no Microsoft Excel, utilizando:
 
-Organização dos dados de forma estruturada
+organização estruturada dos dados
 
-Construção de visualizações que permitem analisar:
+cálculos auxiliares para apoio à análise
 
-desempenho de vendas
+visualizações que permitem uma leitura clara dos indicadores de vendas
 
-indicadores relevantes
-
-comportamento dos dados ao longo do período analisado
+O projeto segue as orientações propostas no desafio do curso.
 
 📁 Estrutura do Repositório
 
-O repositório contém:
+Este repositório contém:
 
-README.md – descrição do projeto, objetivo e instruções
+README.md — documentação do projeto
 
-Arquivo Excel (.xlsx) com o dashboard finalizado
+dashboard_vendas_xbox.xlsx — arquivo Excel com o dashboard finalizado
 
-▶️ Como reproduzir o projeto
+▶️ Como utilizar
 
-Faça o download do arquivo Excel disponível neste repositório
+Faça o download do arquivo dashboard_vendas_xbox.xlsx
 
 Abra o arquivo no Microsoft Excel
 
-Navegue pelas abas para visualizar o dashboard e os dados utilizados
+Navegue pelas abas para visualizar os dados e o dashboard de vendas
 
+📌 Observações
 
+Projeto desenvolvido para fins educacionais, com foco na prática de organização e visualização de dados no Excel.
